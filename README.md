@@ -1,2 +1,2 @@
 # TTU-s-Student-Registration-Example-
-This is registration system (example) for Thanlyin Technological University. I created this two months ago, and I know I still need to learn more and what I wrote is very simple. Thanks!
+This is student registration system (example) for Thanlyin Technological University. I created this in 2020 just to practise my java skills.
